@@ -18,7 +18,7 @@ encapsulating it together.
 security to the class members.
 */
 class SportsCar {
-private:
+private: 
     string brand;
     string model;
     bool isEngineOn;
